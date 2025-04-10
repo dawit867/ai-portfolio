@@ -1,4 +1,16 @@
-# AI Engineer Portfolio Projects
+# 🤖 AI Engineer Portfolio
+
+This portfolio features advanced AI/ML projects with production-ready pipelines. It covers everything from LLM integration and model fine-tuning to deploying ML services and validating notebooks with CI workflows.
+
+## 🧠 Highlights
+- LLMs with Hugging Face Transformers
+- Model training and evaluation notebooks
+- MLOps-style workflow testing (nbmake, CI)
+- Checkpointing and model lifecycle
+- AI deployments with FastAPI & Docker
+  
+
+## Project List
 
 ## 1. Multilingual Voice Agent for Public Services
 
